@@ -1,0 +1,6 @@
+{
+  "app_name": "app",
+  "app_port":"8080",
+  "app_host": "localhost",
+  "app_mod": "debug"
+}
